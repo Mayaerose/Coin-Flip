@@ -49,7 +49,7 @@ This app needs a Node server
 - How to send data to the server using query parameters
 - How to send back JSON from the server
 
-VIEW APP HERE: https://coin-flip-p703.onrender.com/
+VIEW APP HERE: https://coin-flip-p703.onrender.com
 
 ## Author
 
